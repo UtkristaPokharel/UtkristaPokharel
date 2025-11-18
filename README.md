@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on apps<br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with ui design<br>🌱 I’m currently learning flutter
+🔭 I’m currently working on mobile app development<br>👯 I’m looking to collaborate on GitHub<br>🤝 I’m seeking help and feedback on UI/UX design<br>🌱 I’m currently learning and building with Flutter
 
 
 ## 🌐 Socials:
